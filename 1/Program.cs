@@ -1,9 +1,15 @@
-﻿class Program
+﻿
+
+class Program
 {
-
-   static void Main()
+    static void Main()
     {
+        int contador = 1;
 
-        Console.WriteLine()
+        while (contador <= 10)
+        {
+            Console.WriteLine("Diva.");
+            contador++;
+        }
     }
 }
