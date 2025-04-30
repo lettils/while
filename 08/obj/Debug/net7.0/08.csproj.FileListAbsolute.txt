@@ -1,0 +1,14 @@
+C:\Users\Leticia55006026\Documents\while\08\bin\Debug\net7.0\08.exe
+C:\Users\Leticia55006026\Documents\while\08\bin\Debug\net7.0\08.deps.json
+C:\Users\Leticia55006026\Documents\while\08\bin\Debug\net7.0\08.runtimeconfig.json
+C:\Users\Leticia55006026\Documents\while\08\bin\Debug\net7.0\08.dll
+C:\Users\Leticia55006026\Documents\while\08\bin\Debug\net7.0\08.pdb
+C:\Users\Leticia55006026\Documents\while\08\obj\Debug\net7.0\08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia55006026\Documents\while\08\obj\Debug\net7.0\08.AssemblyInfoInputs.cache
+C:\Users\Leticia55006026\Documents\while\08\obj\Debug\net7.0\08.AssemblyInfo.cs
+C:\Users\Leticia55006026\Documents\while\08\obj\Debug\net7.0\08.csproj.CoreCompileInputs.cache
+C:\Users\Leticia55006026\Documents\while\08\obj\Debug\net7.0\08.dll
+C:\Users\Leticia55006026\Documents\while\08\obj\Debug\net7.0\refint\08.dll
+C:\Users\Leticia55006026\Documents\while\08\obj\Debug\net7.0\08.pdb
+C:\Users\Leticia55006026\Documents\while\08\obj\Debug\net7.0\08.genruntimeconfig.cache
+C:\Users\Leticia55006026\Documents\while\08\obj\Debug\net7.0\ref\08.dll
